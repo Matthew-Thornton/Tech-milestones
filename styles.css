@@ -1,0 +1,36 @@
+body  {
+ background-color:gray; color: white;
+}
+.contentheader {
+font-family: Arial; background-color: gray padding: 50px; margin:40px;
+}
+.contentheader:hover{
+  color: black;
+}
+.content{
+font-family: sans-serif; background-color: gray; padding: 20px; text-align: center; font-size: 120%;
+}
+.bold {
+  font-weight: bold;
+}
+.italic{
+  font-style: italic;
+}
+.center{
+  text-align: center;
+}
+.background{
+   background-image: url("https://pbs.twimg.com/profile_images/575398133192069120/gvl4VNI0_400x400.jpeg"); background-attachment:fixed;
+   background-size:contain;
+
+}
+.test{
+  background-color: gray
+}
+
+#mainheader {
+background-color: gray;
+}
+#footer {
+  background-color: gray;
+}
