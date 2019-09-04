@@ -1,11 +1,11 @@
 body {
-  background-color: #64929B; color: black;
+ color: #d9dadb;
 }
 .contentheader {
-font-family: Arial; padding: 50px; margin:40px; color:white;
+font-family: Arial; padding: 50px; margin:40px; color:#d9dadb;
 }
 .contentheader:hover{
-  color: #ada5a5;
+  color: white;
 }
 .content{
 font-family: sans-serif; padding: 20px; text-align: center; font-size: 120%;
@@ -20,17 +20,17 @@ font-family: sans-serif; padding: 20px; text-align: center; font-size: 120%;
   text-align: center;
 }
 
-.backgroundcolor{
-  background-color: #64929B;
+.backgroundcolor, body{
+  background-color: #116466;
 }
 #background{
-   background-image: url("https://pbs.twimg.com/profile_images/575398133192069120/gvl4VNI0_400x400.jpeg"); background-attachment:fixed;
-   background-size:contain;
+   background-image: url("https://media3.giphy.com/media/xThuWtNFKZWG6fUFe8/source.gif"); background-attachment:fixed;
+   background-size:contain; background-repeat:round;
 
 }
 #mainheader {
-font-style: oblique;
+font-style: oblique; color: #d9dadb;
 }
 #footer {
- font-style: italic;
+ font-style: italic; color: #d9dadb;
 }
