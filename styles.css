@@ -1,8 +1,8 @@
 body {
-  background-color: gray; color: white;
+  background-color: #64929B; color: black;
 }
 .contentheader {
-font-family: Arial; padding: 50px; margin:40px;
+font-family: Arial; padding: 50px; margin:40px; color:white;
 }
 .contentheader:hover{
   color: #ada5a5;
@@ -21,7 +21,7 @@ font-family: sans-serif; padding: 20px; text-align: center; font-size: 120%;
 }
 
 .backgroundcolor{
-  background-color: gray;
+  background-color: #64929B;
 }
 #background{
    background-image: url("https://pbs.twimg.com/profile_images/575398133192069120/gvl4VNI0_400x400.jpeg"); background-attachment:fixed;
