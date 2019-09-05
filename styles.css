@@ -30,5 +30,5 @@ body {
 font-style: oblique; color: #d9dadb;
 }
 #footer {
- font-style: italic; color: #d9dadb;
+ font-style: italic; color: #d9dadb; text-align: right;
 }
