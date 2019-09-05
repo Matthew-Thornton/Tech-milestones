@@ -1,14 +1,14 @@
 body {
- color: #d9dadb;
+ color: #d9dadb; font-family: 'PT Serif', serif;
 }
 .contentheader {
-font-family: Arial; padding: 50px; margin:40px; color:#d9dadb;
+ padding: 50px; margin:40px; color:#d9dadb;
 }
 .contentheader:hover{
   color: white;
 }
 .content{
-font-family: sans-serif; padding: 20px; text-align: center; font-size: 120%;
+ padding: 20px; text-align: center; font-size: 120%;
 }
 .bold {
   font-weight: bold;
@@ -24,7 +24,7 @@ font-family: sans-serif; padding: 20px; text-align: center; font-size: 120%;
   background-color: #116466;
 }
 #background{
-   background-image: url("https://media3.giphy.com/media/xThuWtNFKZWG6fUFe8/source.gif"); background-attachment:fixed;
+   background-image: url("background.gif"); background-attachment:fixed;
    background-size:contain; background-repeat:round;
 
 }
