@@ -1,5 +1,7 @@
 body {
  color: #d9dadb; font-family: 'PT Serif', serif;
+ background-image: url("background.gif"); background-attachment:fixed;
+ background-size:contain; background-repeat:round;
 }
 .contentheader {
  padding: 50px; margin:40px; color:#d9dadb;
@@ -20,13 +22,8 @@ body {
   text-align: center;
 }
 
-.backgroundcolor, body{
-  background-color: #116466;
-}
-#background{
-   background-image: url("background.gif"); background-attachment:fixed;
-   background-size:contain; background-repeat:round;
-
+.backgroundcolor{
+ background: RGBA(17,100,102,0.61);
 }
 #mainheader {
 font-style: oblique; color: #d9dadb;
