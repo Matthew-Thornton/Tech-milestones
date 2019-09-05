@@ -3,6 +3,7 @@ body {
  background-image: url("background.gif"); background-attachment:fixed;
  background-size:contain; background-repeat:round;
 }
+
 .contentheader {
  padding: 50px; margin:40px; color:#d9dadb;
 }
