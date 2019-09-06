@@ -1,34 +1,51 @@
 body {
- color: #d9dadb; font-family: 'PT Serif', serif;
- background-image: url("background.gif"); background-attachment:fixed;
- background-size:contain; background-repeat:round;
+  color: #d9dadb;
+  font-family: 'PT Serif', serif;
+  background-image: url("background.gif");
+  background-attachment: fixed;
+  background-size: contain;
+  background-repeat: round;
 }
 
 .contentheader {
- padding: 50px; margin:40px; color:#d9dadb;
+  padding: 50px;
+  margin: 40px;
+  color: #d9dadb;
 }
-.contentheader:hover{
+
+.contentheader:hover {
   color: white;
 }
-.content{
- padding: 20px; text-align: center; font-size: 120%;
+
+.content {
+  padding: 20px;
+  text-align: center;
+  font-size: 120%;
 }
+
 .bold {
   font-weight: bold;
 }
-.italic{
+
+.italic {
   font-style: italic;
 }
-.center{
+
+.center {
   text-align: center;
 }
 
-.backgroundcolor{
- background: RGBA(17,100,102,0.61);
+.backgroundcolor {
+  background: RGBA(17, 100, 102, 0.61);
 }
+
 #mainheader {
-font-style: oblique; color: #d9dadb;
+  font-style: oblique;
+  color: #d9dadb;
 }
+
 #footer {
- font-style: italic; color: #d9dadb; text-align: right;
+  font-style: italic;
+  color: #d9dadb;
+  text-align: right;
 }
