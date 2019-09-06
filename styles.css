@@ -49,3 +49,13 @@ body {
   color: #d9dadb;
   text-align: right;
 }
+
+a {
+  font-size: 100%;
+  -webkit-transition: font-size 2s;
+    transition: font-size 2s;
+}
+
+a:hover {
+  font-size: 175%;
+}
